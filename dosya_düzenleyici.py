@@ -5,6 +5,10 @@ import shutil
 # VERSİON V1.0.0
 # DEVELOPER BY ENESGKKY
 
+# Kendinizde buraya dosya uzantısı ekleyerek kişiselleştirebilirsiniz. 
+# Örnek : "dosya_uzantisi_adi":".olusturulmasi_istenen_dosyanin_adi",
+# Yakında buna da düzenleme geleccektir!
+
 dosya_name = {
             "txt":".Belgeler","pdf":".Belgeler","doc":".Belgeler","docx":".Belgeler",
             "jpg":".Resimler","png":".Resimler","jpeg":".Resimler",
