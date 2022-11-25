@@ -2,10 +2,8 @@ import os
 import time
 import shutil
 
-## TEST DOSYA YOLU : C:\Users\Enes_\OneDrive\Masaüstü\testDosya
-
-
-
+# VERSİON V1.0.0
+# DEVELOPER BY ENESGKKY
 
 dosya_name = {
             "txt":".Belgeler","pdf":".Belgeler","doc":".Belgeler","docx":".Belgeler",
